@@ -9,7 +9,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> GANTI APIKEY, API INI CUMA BUAT FITUR TIKTOK DOWNLOAD
-global.zenzkey = 'Your_Apikey' //Register Atau Beli Di zenzapis.xyz
+global.zenzkey = 'a378f3a740' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
 global.ownerNumber = ['18254857668','6285738975006'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
